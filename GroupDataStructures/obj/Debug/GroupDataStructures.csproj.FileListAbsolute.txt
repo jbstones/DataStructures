@@ -1,0 +1,2 @@
+\\mac\home\documents\visual studio 2013\Projects\GroupDataStructures\GroupDataStructures\bin\Debug\GroupDataStructures.exe.config
+\\Mac\Home\Desktop\GitHub\Data-Structures-Assignment\GroupDataStructures\GroupDataStructures\bin\Debug\GroupDataStructures.exe.config
